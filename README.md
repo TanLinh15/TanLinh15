@@ -23,6 +23,11 @@
 
 ### 📫 Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 <p align="center">
+<a href="https://https://www.facebook.com/LuuTanLinh/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" width="3.5%"> </a>
+<a href="https://https://www.instagram.com/_tanlinh/" target="_blank"> <img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"> </a>
+<a hreftanlinh15gmail.com" target="_blank"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"> </a>
+</p>
+    
 </p>
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
