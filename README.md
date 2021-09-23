@@ -28,7 +28,12 @@
 <a href="mailto:tanlinh15@gmail.com" target="_blank"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"> </a>
 </p>
     
-</p>
+    
+    
+    
+    
+    
+    
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
