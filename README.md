@@ -1,5 +1,10 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://github.com/TanLinh15" target="_blank">Tấn Lĩnh</a>. Nice to see you.<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
+
+
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{ntvien}/count.svg" alt="ntvien :: Visitor's Count" /></p>
+- 🏦 I'm studying computer science at [LangLang University of Technology](https://www.vanlanguni.edu.vn/) <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50">
 ### 👨🏻‍💻 Languages and Tools:
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
